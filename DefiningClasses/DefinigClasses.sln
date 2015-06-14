@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PathsOfPoints", "DefiningClasses\PathsOfPoints.csproj", "{68EFBC2B-179D-4455-844A-7E7AC4132A02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericList", "ProblemsV-IV\GenericList.csproj", "{6F30DE74-E6AC-47F2-AE56-7B20122DC6F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenrericMatrix", "ProblemsVII-X\GenrericMatrix.csproj", "{284D6058-DF37-46DF-963F-CCA9C683E5B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Attribut", "ProblemXI\Attribut.csproj", "{5C28F39B-DB5B-4CBE-984E-8F47AC998B15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68EFBC2B-179D-4455-844A-7E7AC4132A02}.Debug|x86.ActiveCfg = Debug|x86
+		{68EFBC2B-179D-4455-844A-7E7AC4132A02}.Debug|x86.Build.0 = Debug|x86
+		{68EFBC2B-179D-4455-844A-7E7AC4132A02}.Release|x86.ActiveCfg = Release|x86
+		{68EFBC2B-179D-4455-844A-7E7AC4132A02}.Release|x86.Build.0 = Release|x86
+		{6F30DE74-E6AC-47F2-AE56-7B20122DC6F6}.Debug|x86.ActiveCfg = Debug|x86
+		{6F30DE74-E6AC-47F2-AE56-7B20122DC6F6}.Debug|x86.Build.0 = Debug|x86
+		{6F30DE74-E6AC-47F2-AE56-7B20122DC6F6}.Release|x86.ActiveCfg = Release|x86
+		{6F30DE74-E6AC-47F2-AE56-7B20122DC6F6}.Release|x86.Build.0 = Release|x86
+		{284D6058-DF37-46DF-963F-CCA9C683E5B4}.Debug|x86.ActiveCfg = Debug|x86
+		{284D6058-DF37-46DF-963F-CCA9C683E5B4}.Debug|x86.Build.0 = Debug|x86
+		{284D6058-DF37-46DF-963F-CCA9C683E5B4}.Release|x86.ActiveCfg = Release|x86
+		{284D6058-DF37-46DF-963F-CCA9C683E5B4}.Release|x86.Build.0 = Release|x86
+		{5C28F39B-DB5B-4CBE-984E-8F47AC998B15}.Debug|x86.ActiveCfg = Debug|x86
+		{5C28F39B-DB5B-4CBE-984E-8F47AC998B15}.Debug|x86.Build.0 = Debug|x86
+		{5C28F39B-DB5B-4CBE-984E-8F47AC998B15}.Release|x86.ActiveCfg = Release|x86
+		{5C28F39B-DB5B-4CBE-984E-8F47AC998B15}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
