@@ -1,0 +1,6 @@
+C:\Users\k.kurtev\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\NullValuesArithmetic\bin\Debug\NullValuesArithmetic.exe.config
+C:\Users\k.kurtev\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\NullValuesArithmetic\bin\Debug\NullValuesArithmetic.exe
+C:\Users\k.kurtev\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\NullValuesArithmetic\bin\Debug\NullValuesArithmetic.pdb
+C:\Users\k.kurtev\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\NullValuesArithmetic\obj\Debug\BankAccountData.csprojResolveAssemblyReference.cache
+C:\Users\k.kurtev\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\NullValuesArithmetic\obj\Debug\NullValuesArithmetic.exe
+C:\Users\k.kurtev\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\NullValuesArithmetic\obj\Debug\NullValuesArithmetic.pdb

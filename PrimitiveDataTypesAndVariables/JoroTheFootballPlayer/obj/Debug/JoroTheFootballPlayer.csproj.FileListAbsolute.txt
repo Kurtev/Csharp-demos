@@ -1,0 +1,5 @@
+C:\Users\k.kurtev\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\JoroTheFootballPlayer\bin\Debug\JoroTheFootballPlayer.exe.config
+C:\Users\k.kurtev\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\JoroTheFootballPlayer\bin\Debug\JoroTheFootballPlayer.exe
+C:\Users\k.kurtev\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\JoroTheFootballPlayer\bin\Debug\JoroTheFootballPlayer.pdb
+C:\Users\k.kurtev\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\JoroTheFootballPlayer\obj\Debug\JoroTheFootballPlayer.exe
+C:\Users\k.kurtev\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\JoroTheFootballPlayer\obj\Debug\JoroTheFootballPlayer.pdb

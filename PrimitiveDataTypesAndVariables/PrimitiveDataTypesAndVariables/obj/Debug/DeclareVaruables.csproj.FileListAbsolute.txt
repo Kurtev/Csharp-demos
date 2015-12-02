@@ -1,0 +1,6 @@
+c:\users\k.kurtev\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\bin\Debug\PrimitiveDataTypesAndVariables.exe.config
+c:\users\k.kurtev\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\bin\Debug\PrimitiveDataTypesAndVariables.exe
+c:\users\k.kurtev\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\bin\Debug\PrimitiveDataTypesAndVariables.pdb
+c:\users\k.kurtev\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\obj\Debug\DeclareVaruables.csprojResolveAssemblyReference.cache
+c:\users\k.kurtev\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\obj\Debug\PrimitiveDataTypesAndVariables.exe
+c:\users\k.kurtev\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\obj\Debug\PrimitiveDataTypesAndVariables.pdb
